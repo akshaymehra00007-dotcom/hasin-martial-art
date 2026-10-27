@@ -1,0 +1,43 @@
+{
+  "listing": "https://maps.google.com/maps?cid=6855526620495041770",
+  "photos": [
+    {
+      "file": "academy-01.webp",
+      "source": "https://lh3.googleusercontent.com/grass-cs/AABkmLftnk8BbtQXDSv8qncz0AJEcgH4Gdcn4iN6MAM4ZgGLzVT3zVUqu0ILZI7VlhGHXpyzBPvd0KMvMNqGGEE4vkE-Lza_CWXt5YW8oMbZk99jOcEhBhkKx7Tc5Wyx4A72s7Z6PaM8jw=s2400",
+      "width": 2400,
+      "height": 1600
+    },
+    {
+      "file": "academy-02.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkeqhVcYIMYGIsFepI_cmzFIg8mjUZBjKmIfHCeCs5pSkXKDTXrmBujIYuMHMHc9K9WOGspSYsrSwSeXcdmd4ifsZHbHjwZas8c6U-7d__ya8SZ0Uv5yjRB6eL_xu__IMpjM9SqA=s2400",
+      "width": 2400,
+      "height": 1800
+    },
+    {
+      "file": "academy-03.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QjxfX8EAJ6LtH-b1T9XlFnQXGL49Uwh_Xf5Z5Uu3ti5L_OzTnL85xvOvMyAs2Q_OJ11wNNTq7cOU1HZ66jIuWrG-Y2Kt3-oLzXADAzcZJ_KvbSNiKsD5salxDfE3DE5-1BDS-0vg=s2400",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "file": "academy-04.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP9-gC_hajQvOFQiIy6RnRRpBIGRX0V2wn1W8LS6m0ShEthvYtZGm14sce2SUyzP2HhPVe_N-92Lz5kV1L_NUM2BCfQnCoduAyIps5b35kglZDINeFYdpnQIQ1RMMkzRZwihkL=s2400",
+      "width": 1800,
+      "height": 2400
+    },
+    {
+      "file": "academy-05.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3vc4048FD7Kg_K6FnNoB4v_Gg7EwttrJ8lxiIl8-g8onUIpfy41kJlS3NBukvIorJVyztFAB-iF1vUEf4I0l9zzzUhfdRm5kb2805xPIL0ojJbdTMMbWA8gDgcwTPVUzeGi4VIA=s2400",
+      "width": 1800,
+      "height": 2400
+    },
+    {
+      "file": "academy-06.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ttd3utXE4_9tCcgM2lBGoH-_344Y0AmEbFNZ6XzDI80IffREoKu8Fw35jYQa4ZKc9suzU9VJ2LLgYH6d1BpFXEv51_SEkTmi-qhKgJ1PBGCDD8mvPMiK6YLqI-f7nYZAUcG8MU2w=s2400",
+      "width": 1800,
+      "height": 2400
+    }
+  ],
+  "verified_on": "2026-10-24",
+  "hero": "Existing stock training video retained; poster extracted from its first frame."
+}
