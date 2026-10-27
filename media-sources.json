@@ -1,43 +1,59 @@
 {
-  "listing": "https://maps.google.com/maps?cid=6855526620495041770",
+  "listing": "https://www.google.com/maps?cid=2772938331357216949",
+  "verified_on": "2026-10-27",
+  "business_name": "Hasin Martial Arts Academy Bareilly",
+  "address": "La Mall, 98, Civil Lines, Bareilly, Uttar Pradesh 243001",
+  "phone": "+91 84749 17161",
+  "rating": 4.6,
+  "reviews": 72,
+  "hours": "Monday\u2013Friday 09:00\u201317:00; Saturday\u2013Sunday closed. Confirm holiday and class timings with the academy.",
   "photos": [
     {
-      "file": "academy-01.webp",
-      "source": "https://lh3.googleusercontent.com/grass-cs/AABkmLftnk8BbtQXDSv8qncz0AJEcgH4Gdcn4iN6MAM4ZgGLzVT3zVUqu0ILZI7VlhGHXpyzBPvd0KMvMNqGGEE4vkE-Lza_CWXt5YW8oMbZk99jOcEhBhkKx7Tc5Wyx4A72s7Z6PaM8jw=s2400",
-      "width": 2400,
-      "height": 1600
+      "file": "hasin-balance.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SOg5HYN3U0mjO_HS-FmctS_5NlrN2IdtLX7Te5jQHjb-HCcEopzEOKZ-1ZBTWRxvX25P2BleSRDHnmdJHvf6yxyC3aEqtGe4Ng4kZBu6_3EVpyaHVnbQTS0byOzybp9Vb3Ifaa9g=s1800",
+      "width": 992,
+      "height": 1800,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
     },
     {
-      "file": "academy-02.webp",
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkeqhVcYIMYGIsFepI_cmzFIg8mjUZBjKmIfHCeCs5pSkXKDTXrmBujIYuMHMHc9K9WOGspSYsrSwSeXcdmd4ifsZHbHjwZas8c6U-7d__ya8SZ0Uv5yjRB6eL_xu__IMpjM9SqA=s2400",
-      "width": 2400,
-      "height": 1800
+      "file": "hasin-training.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJJuXqPJOI6I_UBeheGoHHPlPAwy7h27QQVMw-MO6lRs9Jac4Wb96GzqGpL7DtG7sLcve7mcYskc4UtOIKvzYRK3RkNe4DdcuxM1H33CfYo9xEE94kA0ZKmpz6d5A5975wKpBE=s1800",
+      "width": 1280,
+      "height": 853,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
     },
     {
-      "file": "academy-03.webp",
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QjxfX8EAJ6LtH-b1T9XlFnQXGL49Uwh_Xf5Z5Uu3ti5L_OzTnL85xvOvMyAs2Q_OJ11wNNTq7cOU1HZ66jIuWrG-Y2Kt3-oLzXADAzcZJ_KvbSNiKsD5salxDfE3DE5-1BDS-0vg=s2400",
+      "file": "hasin-coaching.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TW6JP9rbi0qIqxviazJY4mcNFWpaxqRDWKjpgscAM0sapPdnyxEGU0oJVtcEhPnUJv5r6ERFp5H1yN-03Al8a8Bj7sLVDe6CZX1dUs_9g56Tm1jt7XBo16-x9nfjDJiVfPR7qZrQ=s1800",
+      "width": 1800,
+      "height": 1800,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
+    },
+    {
+      "file": "hasin-academy.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SjRncEnnsuuB3WrfOW_LUQ6aKpXpqgiTYsJzr-xqzZChxFqW-TqXf5z262HGjwwwcmvUkS0ZOZjOUCT92PhDO-g--a0g8XhD-btMg7p4MiQiZhBvRqb1dFuSFIUOR_OAg0zps=s1800",
+      "width": 1800,
+      "height": 1012,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
+    },
+    {
+      "file": "hasin-partners.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdEznKuzrQJsFWNoblljbhQZWJ8g7TnMdHQUZ3JPPSbJLVpMHlqO3uiG7mRHMIC-PCuAIDQLtT0Afbl7xZ_DlN4PW5exIS6_-bktsSWJmmllZWuLoZeE91K4mt21B3N0gIJVfM=s1800",
+      "width": 960,
+      "height": 960,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
+    },
+    {
+      "file": "hasin-learning.webp",
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3nX8m0GHZxlbqc2bPBFpdSuL5NvQm3ddWa0jlXmgvsJyc6OZ-_ku4b165gat5uquPMaZF-1V-TsPCEpW48rvrr94KvkdnN4ajSBo0t9croDx0YeDrFU3gDRd5m27Bo2TzbhVd=s1800",
       "width": 1600,
-      "height": 1200
-    },
-    {
-      "file": "academy-04.webp",
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP9-gC_hajQvOFQiIy6RnRRpBIGRX0V2wn1W8LS6m0ShEthvYtZGm14sce2SUyzP2HhPVe_N-92Lz5kV1L_NUM2BCfQnCoduAyIps5b35kglZDINeFYdpnQIQ1RMMkzRZwihkL=s2400",
-      "width": 1800,
-      "height": 2400
-    },
-    {
-      "file": "academy-05.webp",
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3vc4048FD7Kg_K6FnNoB4v_Gg7EwttrJ8lxiIl8-g8onUIpfy41kJlS3NBukvIorJVyztFAB-iF1vUEf4I0l9zzzUhfdRm5kb2805xPIL0ojJbdTMMbWA8gDgcwTPVUzeGi4VIA=s2400",
-      "width": 1800,
-      "height": 2400
-    },
-    {
-      "file": "academy-06.webp",
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ttd3utXE4_9tCcgM2lBGoH-_344Y0AmEbFNZ6XzDI80IffREoKu8Fw35jYQa4ZKc9suzU9VJ2LLgYH6d1BpFXEv51_SEkTmi-qhKgJ1PBGCDD8mvPMiK6YLqI-f7nYZAUcG8MU2w=s2400",
-      "width": 1800,
-      "height": 2400
+      "height": 1200,
+      "attribution": "Hasin Martial Arts Academy Bareilly, Google Maps, By owner"
     }
   ],
-  "verified_on": "2026-10-24",
-  "hero": "Existing stock training video retained; poster extracted from its first frame."
+  "logo": {
+    "file": "dist/assets/hasin-logo.webp",
+    "method": "Built-in image generation",
+    "prompt": "Original horizontal Hasin Martial Arts Academy Bareilly logo; red and ivory martial artist high kick, circular brushstroke and H monogram, athletic lettering, transparent background."
+  }
 }
