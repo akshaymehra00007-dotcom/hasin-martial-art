@@ -14,3 +14,22 @@ document.querySelector('#year').textContent=new Date().getFullYear();
 
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){body.classList.remove('menu-open');menu?.setAttribute('aria-expanded','false');menu?.setAttribute('aria-label','Open navigation');menu?.setAttribute('aria-label','Open navigation')}});
 window.matchMedia('(min-width:1101px)').addEventListener('change',e=>{if(e.matches){body.classList.remove('menu-open');menu?.setAttribute('aria-expanded','false');menu?.setAttribute('aria-label','Open navigation')}});
+
+// Keep the matching opening-frame poster visible until playback starts.
+const heroVideo = document.querySelector('.hero-video');
+const motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
+if (heroVideo) {
+  const startHero = () => {
+    if (motionPreference.matches) {
+      heroVideo.pause();
+      heroVideo.classList.remove('is-playing');
+      return;
+    }
+    heroVideo.muted = true;
+    heroVideo.play().catch(() => heroVideo.classList.remove('is-playing'));
+  };
+  heroVideo.addEventListener('playing', () => heroVideo.classList.add('is-playing'));
+  heroVideo.addEventListener('error', () => heroVideo.classList.remove('is-playing'));
+  motionPreference.addEventListener('change', startHero);
+  startHero();
+}

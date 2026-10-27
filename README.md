@@ -12,4 +12,4 @@ The current Google listing uses **Hasin Martial Arts Academy Bareilly**, **La Ma
 
 Hours and review counts reflect the listing at the time of verification. Class schedules, fees, age groups and holiday hours should be confirmed directly with the academy. WhatsApp links prepare an enquiry; visitors must send it themselves.
 
-The website uses the academy's owner-uploaded Google Maps photos and an original logo created for this update. The previous academy's branding and media have been removed.
+The website uses the academy's owner-uploaded Google Maps photos and an original logo created for this update. The original stock hero training video and its matching poster are retained at the owner's request; the gallery and business details belong to Hasin.

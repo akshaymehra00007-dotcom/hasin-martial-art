@@ -55,5 +55,10 @@
     "file": "dist/assets/hasin-logo.webp",
     "method": "Built-in image generation",
     "prompt": "Original horizontal Hasin Martial Arts Academy Bareilly logo; red and ivory martial artist high kick, circular brushstroke and H monogram, athletic lettering, transparent background."
+  },
+  "hero": {
+    "video": "dist/assets/hero-training.mp4",
+    "poster": "dist/assets/hero-poster.webp",
+    "note": "Original stock hero video and matching opening-frame poster retained at user request."
   }
 }
