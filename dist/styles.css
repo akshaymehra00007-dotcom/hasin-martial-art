@@ -46,3 +46,7 @@ form{display:grid;grid-template-columns:1fr;gap:10px}form input,form select{grid
 .hero-video.is-playing{opacity:1}
 @media(max-width:900px){.hero{background-position:62% center}.hero-video{object-position:62% center}}
 @media(prefers-reduced-motion:reduce){.hero-video{display:none}}
+.whatsapp-float{width:58px;height:58px;min-height:58px;padding:0;border-radius:50%;justify-content:center;background:#25d366;color:#fff;box-shadow:0 6px 24px #0005}
+.whatsapp-float svg{display:block;flex-shrink:0;width:30px;height:30px}
+.whatsapp-float:hover{background:#1ebe5d}
+@media(max-width:560px){.whatsapp-float{width:56px;height:56px;min-height:56px;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px))}}
